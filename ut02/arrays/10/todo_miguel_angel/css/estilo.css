@@ -1,0 +1,39 @@
+.card-hover:hover {
+    box-shadow: 0 4px 8px rgba(17, 0, 252, 0.4);
+}
+
+
+.mensaje-vacio {
+    font-style: italic;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+body  {
+    height: 100%;
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+}
+
+body h1{
+    color: white;
+}
+
+thead tr th{
+    background-image: linear-gradient(to top, #377571 0%, #9f4ad4 100%);
+}
+button:nth-child(1){
+    background-image: linear-gradient(to top, #45acac 0%, #5b259c 100%) ;
+}
+
+button:hover{
+    background-image: linear-gradient(to top, #2bfff1 0%, #9903f7 100%);
+}
+
+form{
+    background-color: #e6f7ff;
+    
+}
